@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in C++: division by zero. The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` provides a corrected version that handles potential division by zero.  This example highlights the importance of input validation and error handling in robust C++ programming.
